@@ -1,0 +1,2 @@
+# bestminer
+bestminer
